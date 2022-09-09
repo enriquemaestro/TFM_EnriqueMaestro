@@ -41,7 +41,7 @@ Una vez instalada la aplicación esta se puede encontrar en el menú desplegable
 ## Construido con 🛠️
 
 * [Unity](https://docs.unity3d.com/Manual/index.html) - El motor de videojuegos usado
-* [Oculus](https://developer.oculus.com/documentation/?locale=es_ES) - Gafas de realidad virtual usadas
+* [Oculus](https://developer.oculus.com/documentation/unity/) - Gafas de realidad virtual usadas
 
 ## Autores ✒️
 
