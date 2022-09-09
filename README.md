@@ -45,8 +45,11 @@ Una vez instalada la aplicación esta se puede encontrar en el menú desplegable
 
 ## Autores ✒️
 
-* **Enrique Maestro Mañanes** - *Autor* - 
-* **María Guijarro Mata-García** - *Directora* - 
-* **Joaquín Recas Piorno** - *Director* - 
+* **Enrique Maestro Mañanes**
+
+## Directores ✒️
+
+* **María Guijarro Mata-García**
+* **Joaquín Recas Piorno** 
 
 ---
