@@ -28,7 +28,7 @@ Gafas de realidad virtual Oculus Quest 2
 A continuacion se va a realizar una breve explicación para instalar la aplicación.
 
 ```
-1º Descargar los archivos.
+1º Descargar los archivos de la carpeta TFM_Pruebas.
 2º Importar el proyecto en Unity.
 3º Conectar el visor de realidad virtual (Oculus Quest 2) y ejecutar el programa para crear la apk.
 * Al no ser una aplicación oficial del visor, es necesario activar el modo desarrollador desde la aplicación movil.
