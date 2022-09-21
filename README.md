@@ -8,6 +8,8 @@ El objetivo principal es aportar a las personas con discapacidad visual entornos
 podrán introducir futuras modificaciones que se vayan produciendo en el edificio e incrementar el número de edificios públicos. 
 Para la conseguir la accesibilidad, el sistema ofrece una gran cantidad de retroalimentación que recibe el usuario para poder ubicarse y desenvolverse por el entorno creado. Para conseguir un funcionamiento más personal, la aplicación dispone de un sistema experto que modifica la cantidad de retroalimentación que recibe el usuario, dependiendo de las interacciones de este con el entorno virtual.
 
+Video mostrando el proyecto: https://youtu.be/eFxPJSfKW80
+
 ## Comenzando
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
